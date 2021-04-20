@@ -1,4 +1,4 @@
-# Kaede
+# Kaede:pushpin:
 ### .
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,7 +7,12 @@
 
 - TeamFruit Dev(?)
 - College student
-- 
+- Currently studying web design
+- Android app development
+
+### Links
+- Discord: [Kaede#7777](https://discord.com/users/216206763102437376)
+
 ### Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
